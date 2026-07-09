@@ -8,7 +8,7 @@
 
 body {
   height: 100vh;
-  background-image: url("./images/home.png");
+  background-image: url("../images/home.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ body {
 
 /*Pricing Page Design*/
 .pricing-section {
-  background-image: url("./images/background2.jpg");
+  background-image: url("../images/background2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
